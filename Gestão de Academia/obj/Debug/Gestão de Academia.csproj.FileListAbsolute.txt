@@ -1,0 +1,32 @@
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\Gestão de Academia.exe.config
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\Gestão de Academia.exe
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\Gestão de Academia.pdb
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\EntityFramework.dll
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\System.Data.SQLite.dll
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\EntityFramework.xml
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\System.Data.SQLite.xml
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão de Academia.csproj.AssemblyReference.cache
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão de Academia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Properties.Resources.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão de Academia.csproj.GenerateResource.cache
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão de Academia.csproj.CoreCompileInputs.cache
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão de Academia.csproj.CopyComplete
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão de Academia.exe
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão de Academia.pdb
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_Alunos.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_GestaoUsuarios.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_Login.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_NovoUsuario.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_Horarios.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_Professores.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_Turmas.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\itextsharp.dll
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\bin\Debug\itextsharp.xml
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_SelecionarTurma.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_GestaoAlunos.resources
+C:\Users\Del\source\repos\Gestão de Academia\Gestão de Academia\obj\Debug\Gestão_de_Academia.Frm_Principal.resources
